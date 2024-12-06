@@ -12,7 +12,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/49b25a3419705bb49d611.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/49b25a3419705bb49d611.jpg https://envs.sh/R2x.jpg')).split()
 
 
 # Admins & Users
@@ -161,7 +161,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://possible-yettie-akmovieshub-c58bd635.koyeb.app/")
+URL = environ.get("URL", "https:/hungry-rickie-akmovieshub-a84b54c0.koyeb.app/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
