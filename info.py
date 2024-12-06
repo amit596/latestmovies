@@ -12,7 +12,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/49b25a3419705bb49d611.jpg https://envs.sh/R2x.jpg')).split()
+PICS = (environ.get('PICS', 'https://envs.sh/RtX.jpg https://envs.sh/R2x.jpg https://envs.sh/Rty.jpg')).split()
 
 
 # Admins & Users
@@ -24,7 +24,7 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001954201023'))
 
 # This Is File Channel Where You Upload Your File Then Bot Automatically Save It In Database 
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002432672174 -1001769437975 -1001995668023 -1001855645227 -1002483299948').split()]  # For Multiple Id Use One Space Between Each.
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002432672174 -1001769437975 -1001995668023 -1001855645227 -1002483299948 -1002057886532').split()]  # For Multiple Id Use One Space Between Each.
 
 # auth_channel means force subscribe channel.
 # if REQUEST_TO_JOIN_MODE is true then force subscribe work like request to join fsub, else if false then work like normal fsub.
