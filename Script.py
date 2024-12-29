@@ -11,7 +11,7 @@ class script(object):
     
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs sᴇʀɪᴇs & ᴋ-ᴅʀᴀᴍᴀs, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ ᴀɴᴅ sᴇɴᴅ ᴛʜᴇ ɴᴀᴍᴇ ᴛʜᴀᴛs ɪᴛ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ✨</b>"""
     
-✨ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ  𝐓𝐡𝐞_𝐒𝐨𝐧𝐆𝐨𝐤𝐮 (https://t.me/The_SonGoku) & 𝐇𝐢𝐦𝐚𝐧𝐬𝐡𝐮_𝐓𝐡𝐚𝐤𝐮𝐫 (https://t.me/LifeEarning143)
+✨ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ  The_SonGoku (https://t.me/The_SonGoku) & Himanshu_Thakur (https://t.me/LifeEarning143)
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
