@@ -10,8 +10,6 @@ class script(object):
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ 🌞 , ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs sᴇʀɪᴇs & ᴋ-ᴅʀᴀᴍᴀs, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ ᴀɴᴅ sᴇɴᴅ ᴛʜᴇ ɴᴀᴍᴇ ᴛʜᴀᴛs ɪᴛ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ✨</b>"""
-    
-✨ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @The_SonGoku & @lifeearning143
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
